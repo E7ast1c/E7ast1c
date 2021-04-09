@@ -23,12 +23,6 @@ FrontEnd 💫
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
 </code>
 
-   
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=E7ast1c" alt="GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E7ast1c&layout=compact" alt="Top Langs"/>
-
-
 <a href="https://github.com/E7ast1c">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=E7ast1c" alt="GitHub stats" />
 </a>
