@@ -24,10 +24,8 @@ FrontEnd 💫
 </code>
 
 <a href="https://github.com/E7ast1c">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=E7ast1c" alt="GitHub stats" />
-</a>
-<a href="https://github.com/E7ast1c">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=E7ast1c&layout=compact" alt="Top Langs" />
+  <img height="175"  align="center" src="https://github-readme-stats.vercel.app/api?username=E7ast1c" alt="GitHub stats" />
+  <img height="175"  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=E7ast1c&layout=compact" alt="Top Langs" />
 </a>
 
 <!--
