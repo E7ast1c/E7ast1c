@@ -1,16 +1,8 @@
 ### [Hello there](https://github.com/E7ast1c/) 🙋 
 
 **Languages and Tools:**  
-Backend ⚡️ 
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
-
-</br>
-FrontEnd 💫 
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
+Backend: Go, C#  
+Frontend: JS, TS, React, Vue
 
 <a href="https://github.com/E7ast1c">
   <img height="175"  align="center" src="https://github-readme-stats.vercel.app/api?username=E7ast1c" alt="GitHub stats" />
