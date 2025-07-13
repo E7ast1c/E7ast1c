@@ -1,8 +1,8 @@
 ### [Hello there](https://github.com/E7ast1c/) 🙋 
 
 **Languages and Tools:**  
-Backend: Go, C#  
-Frontend: JS, TS, React, Vue
+Backend: Go, C#, Lua
+Frontend: JS, TS (React, Vue)
 
 <a href="https://github.com/E7ast1c">
   <img height="175"  align="center" src="https://github-readme-stats.vercel.app/api?username=E7ast1c" alt="GitHub stats" />
